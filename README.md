@@ -3,7 +3,7 @@
 Welcome to my challenges i've done by learning `C#` on [CodeCademy](https://www.codecademy.com).
 
 ## Branches?
-Each `branch` is an code challenge that i ended successfully.
+Nope we won't need extra branches here :)
 
 ## Working code?
 Sometimes it can be, that some methods in the code are related to [CodeCademy](https://www.codecademy.com) server build-in's so
